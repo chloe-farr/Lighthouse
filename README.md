@@ -16,7 +16,7 @@ It allows lighting designers, architects, and interior designers to simulate day
 
 ### Components
 
-See sun-simulator_components-list.pdf for a full list of hardware.
+See [sun-simulator_components-list.pdf](./A1/Documentation/sun-simulator_components-list.pdf) for a full list of hardware.
 
 ### Usage
 
@@ -35,6 +35,10 @@ Upload sunsimulator.ino to your Arduino Uno. Use the IR remote to:
 For a complete step-by-step guide to reproducing the build, including wiring procedures, component tests, and soldering order, see:
 
 [replication-instructions.md](./A2/hardware/replication-instructions.md)
+
+### Components
+
+See [components-list.md](./A2/hardware/components-list.md) for a full list of hardware and electronic components.
 
 ### Physical Design: Vehicle Housing
 

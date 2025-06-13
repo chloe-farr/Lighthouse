@@ -4,7 +4,7 @@
 MPU6050 mpu;
 
 void setup() {
-  Wire.begin(D3, D2); // SDA = D2, SCL = D1 on NodeMCU
+  Wire.begin(D3, D2); // SDA = D3, SCL = D2 on NodeMCU
   Serial.begin(115200);
   delay(1000);
 
