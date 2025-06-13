@@ -63,3 +63,9 @@ Component color key:
 - Brown: Charging Module
 
 This prototype was used to inform final dimensions and component placement strategies. Glueing and fastening strategies were implemented when designing the cut pattern in Adobe Illustrator.
+
+### Data
+See the [README](./A2/data/README.md) in `/data/` for information about the dataset used, and how it will be implemented.
+
+### Code
+See the [README](./A2/code/README.md) in `/code/` for information about the code written, and how it will be expanded to achieve the goal functionality.
